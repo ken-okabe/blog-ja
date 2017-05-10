@@ -8,8 +8,7 @@ subtitle:
 description:
 author: Ken Okabe
 language:
-- default
-- ko
+- ja
 timezone:
 
 # URL
@@ -71,4 +70,4 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/kenokabe/kenokabe.github.io
+  repo: https://github.com/kenokabetech/kenokabetech.github.io
